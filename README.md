@@ -1,0 +1,2 @@
+# Cafeteria
+ This project is a website for coffee shops, a study project, using HTML, Css, and a little javascript, I'm looking to develop myself and learn more and more about programming and in the future get a job. Esse projeto é um site para cafeterias, um projeto de estudos, usando HTML, Css, e um pouco de  javascript, estou buscando me desenvolver e aprender cada vez mais sobre programação e futuramente conseguir uma vaga
